@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app/colorCoder.js"
+    "start": "node app/testColorCoder.js"
   },
   "repository": {
     "type": "git",
